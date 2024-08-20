@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">banqueMisr_0.1</string>
+    <string name="google_details">Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence</string>
+    <string name="google_address">Mountain View, California, US</string>
+
+    <string name="X"><u>google.com</u></string>
+</resources>
